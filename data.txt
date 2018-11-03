@@ -1,2 +1,3 @@
 Name : Min Sheng
 Occupation : priest
+sub-occupation : berserker
